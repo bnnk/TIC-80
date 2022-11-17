@@ -1,3 +1,4 @@
+# zerostart: trigger build
 cmake_minimum_required(VERSION 3.3)
 
 set(VERSION_MAJOR 1)
